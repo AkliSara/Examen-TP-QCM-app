@@ -1,0 +1,12 @@
+[
+    {
+        "text": "Quelle est la taille par défaut d'un type de données `int` en Java ?",
+        "options": ["a) 2 octets", "b) 4 octets", "c) 8 octets"],
+        "correct": "b"
+    },
+    {
+        "text": "Quelle méthode est utilisée pour afficher un message en Java ?",
+        "options": ["a) print()", "b) println()", "c) System.out.println()"],
+        "correct": "c"
+    }
+]

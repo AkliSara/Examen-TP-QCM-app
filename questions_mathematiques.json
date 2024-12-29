@@ -1,0 +1,12 @@
+[
+    {
+        "text": "Quelle est la valeur de π (pi) arrondie à deux décimales ?",
+        "options": ["a) 3.14", "b) 2.71", "c) 1.41"],
+        "correct": "a"
+    },
+    {
+        "text": "Quelle est la solution de l'équation 2x + 5 = 11 ?",
+        "options": ["a) 2", "b) 3", "c) 4"],
+        "correct": "b"
+    }
+]

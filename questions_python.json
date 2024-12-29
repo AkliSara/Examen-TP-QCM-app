@@ -1,0 +1,12 @@
+[
+    {
+        "text": "Quel type de données est utilisé pour stocker du texte en Python ?",
+        "options": ["a) int", "b) str", "c) list"],
+        "correct": "b"
+    },
+    {
+        "text": "Quelle est la complexité de la méthode `append` pour une liste en Python ?",
+        "options": ["a) O(1)", "b) O(n)", "c) O(log n)"],
+        "correct": "a"
+    }
+]

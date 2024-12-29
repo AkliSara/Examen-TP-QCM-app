@@ -1,0 +1,12 @@
+[
+    {
+        "text": "Que signifie le terme `phishing` en cybersécurité ?",
+        "options": ["a) Une attaque réseau", "b) Une tentative de fraude par email", "c) Un virus informatique"],
+        "correct": "b"
+    },
+    {
+        "text": "Quelle est la longueur de clé recommandée pour RSA ?",
+        "options": ["a) 1024 bits", "b) 2048 bits", "c) 512 bits"],
+        "correct": "b"
+    }
+]

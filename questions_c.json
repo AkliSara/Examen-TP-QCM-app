@@ -1,0 +1,12 @@
+[
+    {
+        "text": "Quel est le type de retour de la fonction `main` en C ?",
+        "options": ["a) void", "b) int", "c) float"],
+        "correct": "b"
+    },
+    {
+        "text": "Quelle bibliothèque est nécessaire pour utiliser `printf` en C ?",
+        "options": ["a) stdio.h", "b) stdlib.h", "c) string.h"],
+        "correct": "a"
+    }
+]
